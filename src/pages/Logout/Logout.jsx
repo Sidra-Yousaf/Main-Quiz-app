@@ -9,6 +9,7 @@ import {
   MDBModalBody,
   MDBModalFooter,
 } from "mdb-react-ui-kit";
+
 const Logout = () => {
   const [topRightModal, setTopRightModal] = useState(false);
 

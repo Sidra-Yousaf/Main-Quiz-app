@@ -59,27 +59,6 @@ const Login = () => {
                     aria-labelledby="tab-login"
                   >
                     <form>
-                      {/* <div className="text-center mb-3">
-                        <p>Sign in with:</p>
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="facebook-f" />
-                        </MDBBtn>
-
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="google" />
-                        </MDBBtn>
-
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="twitter" />
-                        </MDBBtn>
-
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="github" />
-                        </MDBBtn>
-                      </div> */}
-
-                      {/* <p className="text-center">or:</p> */}
-
                       <MDBInput
                         className="mb-4"
                         type="email"
@@ -130,27 +109,6 @@ const Login = () => {
                     aria-labelledby="tab-register"
                   >
                     <form>
-                      {/* <div className="text-center mb-3">
-                        <p>Sign up with:</p>
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="facebook-f" />
-                        </MDBBtn>
-
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="google" />
-                        </MDBBtn>
-
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="twitter" />
-                        </MDBBtn>
-
-                        <MDBBtn type="button" floating className="mx-1">
-                          <MDBIcon fab icon="github" />
-                        </MDBBtn>
-                      </div>
-
-                      <p className="text-center">or:</p> */}
-
                       <MDBInput
                         className="mb-4"
                         type="text"
